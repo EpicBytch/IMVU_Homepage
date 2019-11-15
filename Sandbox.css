@@ -1,0 +1,7 @@
+.paneltitletext, .panelmenu {
+    visibility:hidden;
+}
+
+#rss_panel_header { 
+    visibility:hidden;
+ }
